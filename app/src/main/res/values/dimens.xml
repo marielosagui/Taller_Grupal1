@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_padding">60sp</dimen>
+    <dimen name="testsize">80dp</dimen>
+    <dimen name="sizeTx">30sp</dimen>
+</resources>
